@@ -1,0 +1,7 @@
+pyrofork
+tgcrypto
+python-telegram-bot
+telegram
+aiohttp
+aiofiles
+psycopg2-binary
